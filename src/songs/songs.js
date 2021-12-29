@@ -320,7 +320,7 @@ Vi har koll bier i en spann.`
 
 export const darude = {
   artist: 'Darude',
-  song: 'Dandstorm',
+  song: 'Sandstorm',
   lyrics: `Duuuuuuuuuuuuuuuuuuuuuuun
 Dun dun dun dun dun dun dun dun dun dun dun dundun dun dundundun dun dun dun dun dun dun dundun dundun
 BOOM

@@ -12,9 +12,10 @@ function App() {
         <input
         className='shadow-xl ml-2 rounded-md'
           type="text"
+          value={filter}
           name="filter"
           onChange={(event) => setFilter(event.target.value)}/>
-          <label for="filter" className='ml-2'>&#8592; Filter</label>
+          <label for="filter" className='ml-2' onClick={() => setFilter('')}>&#8592; Filter</label>
       </form>
       <div className="container mx-auto mt-9 justify-center flex-row">
         {songs
