@@ -659,3 +659,120 @@ Tick tack, tick tack,
 ticke ticke, tick tack
 tick, tick, Tack`
 }
+
+export const manenfull = {
+  artist: 'Snapsvisa',
+  song: 'Månen',
+  melody: 'Mors lilla Olle',
+  lyrics: `En gång i månan
+är månen full
+men aldrig vi sett
+honom ramla omkull
+Stum av beundran
+hur mycket han tål
+höjer vi glasen och
+dricker hans skål`
+}
+
+export const umaness = {
+  artist: 'Joddla med Siv',
+  song: 'Uma Ness',
+  lyrics: `Där bor en flicka i ett annat land
+Uma Ness från Senegal
+Hon bor vid en flod, hon bor vid en strand
+Uma Ness från Senegal
+När natten kommer, så blir flickan frusen
+Uma Ness från Senegal
+Där hon ligger å sover i palmblads husen
+Uma Ness från Senegal
+
+Vem ä det som går där i djungeln å plockar
+Uma Ness från Senegal
+Maskar å larver bland stenar å stockar
+Uma Ness från Senegal
+Hon går där å tänker, hon har tusen frågor
+Uma Ness från Senegal
+Varför ä man gift med sin egen svåger
+Uma Ness från Senegal
+
+Där sitter fem flugor på din mun
+Smycket i ditt öra ä flera tum
+Det va knappt ett år sen alla svalt
+Därför måste nu alla äta allt
+
+Hon kom igen, kom igen, kom igen
+Hon kommer aldrig mer igen. x4
+Hon gick ut i djungeln för att tömma sin blåsa
+Uma Ness från Senegal
+När hon hörde nånting i vassen som flåsa
+Uma Ness från Senegal
+Men trycket va stort så hon satte sej ner
+Uma Ness från Senegal
+I flodens vatten finns det ögon som ser
+Uma Ness från Senegal
+
+Knappt en sekund sen hon släppt sitt urin
+Uma Ness från Senegal
+Hördes apors skrik å fåglars skrin
+Uma Ness från Senegal
+Det sista hon såg va ett väldigt gap
+Uma Ness från Senegal
+Hon svaldes hel med en djävla fart
+Uma Ness från Senegal
+
+Mot en krokodil har man ingen chans
+Man vet aldrig var dom finns nånstans
+Det ä djävligt farligt å bo vid en flod
+De va många som pissa, många som dog
+
+Hon kom igen,kom igen, kom igen
+Hon kommer aldrig mer igen! x4
+Tidigt på morgonen såg hennes mor
+Ingen flicka, inga skor
+Hon tänkte hon ä väl i djungeln å plockar
+Maskar å larver bland stenar å stockar
+
+Den lilla flickan finns ej mer
+Men i flodens vatten ögon som ser
+En liten flicka från Senegal
+En krokodil blev hennes fall`
+}
+
+export const kaj = {
+  artist: 'Joddla med Siv',
+  song: 'Kaj ä gaj',
+  lyrics: `Jag kunde inte fatta att brorsan skulle bli transvestit
+Kirurgernas sylvassa knivar gick skytteltrafik
+Där huden innan bukta ut, där buktar den numera in
+Stora stygga doktorn, har flyttat på brossans skinn
+
+Kaj, Kaj, Kaj, känner du Kaj, Kaj, Kaj?
+Kaj som är gaj, gaj, gaj, känner du Kaj, Kaj, Kaj?
+
+Brorsans och min relation blev katastrofal
+Han bytte sin rakade kvinna mot hårig anal
+På kuppen så blev han jävligt känd, kom med i Stockholms innebastugäng
+Fick gratis champagne och krubb på Levengood klubb
+
+Kaj, Kaj, Kaj, känner du Kaj, Kaj, Kaj?
+Kaj som är gaj, gaj, gaj, känner du Kaj, Kaj, Kaj?
+
+Jag såg på ett tv-program för en dryg vecka sen
+Det handla om en kär liten påg som hette Sven
+Han prata om hur jävligt det var att inte vara som man ska
+Med färgad ögonfrans och parfym på sin lans
+
+Kaj, Kaj, Kaj, känner du Kaj, Kaj, Kaj?
+Kaj som är gaj, gaj, gaj, känner du Kaj, Kaj, Kaj?
+
+Sluta att såra varandra, sluta att klandra
+För två av samma kön kan älska varandra
+Det är kanske inte så konstigt, cha, cha, cha som man kanske tror
+För Sven ifrån tv-programmet blev sambo med min bror
+
+Kaj, Kaj, Kaj, känner du Kaj, Kaj, Kaj?
+Kaj som är gaj, gaj, gaj, känner du Kaj, Kaj, Kaj?
+Kaj som är gaj, gaj, gaj, känner du Kaj, Kaj, Kaj?
+Kaj som är gaj, gaj, gaj, känner du Kaj, Kaj, Kaj?
+Kaj, Kaj, Kaj, känner du Kaj, Kaj, Kaj?`
+}
