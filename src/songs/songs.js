@@ -196,7 +196,7 @@ Hit med en Volvo era jävlar`
 }
 
 export const dildovisan = {
-  artist: 'Oklar artist',
+  artist: 'Snapsvisa',
   song: 'Dildovisan',
   melody: 'mössens julafton',
   lyrics: `när frugan får en dildo
@@ -560,4 +560,102 @@ Det gör ont, men gå ändå
 Du kan alltid vända om
 Det gör ont, men gå ända
 Du är här och kom hit som en vandrare`
+}
+
+export const spritbolaget = {
+  artist: 'Snapsvisa',
+  song: 'Till Spritbolaget',
+  melody: 'Emil i Lönneberga',
+  lyrics: `Till spritbolaget ränner jag
+Och bankar på dess port.
+Jag vill ha nåt’ som bränner bra
+Och gör mig sketfull fort.
+Expediten fråga och sa:
+Hur gammal kan min herre va?
+Har du nåt legg  ditt fula drägg
+Kom hit igen när du fått skägg.
+
+Nej, detta var ju inte bra,
+Jag ska bli full i kväll.
+Då kom jag på en bra idé,
+Dom har ju sprit på Shell.
+Många flaskor stod där på rad.
+Hurra, nu kan jag bli full och glad.
+Den röda drycken rann ju ner.
+Nu kan jag inte se nåt mer.`
+}
+
+export const bamse = {
+  artist: 'Snapsvisa',
+  song: 'Jag ska festa',
+  melody: 'Heja Bamse',
+  lyrics: `Jag ska festa,
+ta det lungt med spriten,
+ha det roligt utan att va full.
+Inte krypa runt med festeliten,
+ta det sansat för min egen skull.
+
+Först en öl i torra strupen,
+efter det så kommer supen
+i med vinet, i med punchen,
+sen en groggbuffé.
+
+Jag är skit full, däckar först av alla,
+missar phesten men vad gör väl de´?
+Blandar hejdlöst öl med gammal filmjölk.
+kastar mat på alla som är med.`
+}
+
+export const themoose = {
+  artist: 'Snapsvisa',
+  song: 'Älgen Hans',
+  melody: 'Helan går',
+  lyrics: `Älgen Hans, han äter både sten och grus
+Älgen Hans, han välter stora hus
+Älgen, älgen, älgen-älgen
+Älgen, älgen, älgen-älgen
+Älgen Haaaaaaaaaaaans...
+...han har så stora horn!`
+}
+
+export const hardwords = {
+  artist: 'Snapsvisa',
+  song: 'Svåra ord',
+  melody: 'Var bor du lilla råtta?',
+  lyrics: `Det finns så många långa svåra ord
+som inte går att fånga vid vårt bord.
+För nu har snapsen verkat, vilken pers.
+Gud hjälpe mig att klara nästa vers.
+
+Besiktningsprotokollet, ganska lätt.
+men 30-års-krisgrollet, mera svett.
+Ett fottbollsVMshalvtidsreferat.
+En arvstvistsbouppteckningsadvokat.
+
+3. (Inglisch)
+A costumesconstellationsspecialist
+likes antigravitationphysicist.
+A crispy crispsmolestersprejudice
+never has verbalvulnerabilities.     
+  
+4. (Dojtschschsch)   
+Ein Schwiegermutterschnurrbart - nicht so gut
+Ein Urwaldwirbeltierart mit ein Hut
+Die Eisenbahnvervaltungshysterie
+ist Weihnachtsliedbedingtheitsterapie`
+}
+
+export const midnatt = {
+  artist: 'Snapsvisa',
+  song: 'Midnatt råder',
+  melody: 'Midnatt råder tyst det är i husen',
+  lyrics: `Midnatt råder
+snart om några timmar
+några timmar.
+Snapsen ner i
+torra halsen simmar
+snapsen simmar.
+Tick tack, tick tack,
+ticke ticke, tick tack
+tick, tick, Tack`
 }
