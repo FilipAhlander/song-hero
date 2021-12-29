@@ -278,93 +278,286 @@ export const bastu = {
   artist: 'Joddla med Siv',
   song: '20 pågar i en bastu',
   lyrics: `Stackars lille Lasse ä de synn om han, för hans käring ä så stygg.
-  Precis som en drake sprutar eld, å hon har taggar på sin rygg.
-  Fast alla dinosaurier dog för länge sen,
-  får Lasse ändå se en varje gång han kommer hem.
+Precis som en drake sprutar eld, å hon har taggar på sin rygg.
+Fast alla dinosaurier dog för länge sen,
+får Lasse ändå se en varje gång han kommer hem.
 
-  Å... vi ä tjuge pågar i bastun.
-  å vi älskar varann.
-  Å... vi ä tjuge pågar i bastun.
-  Vi har koll bier i en spann.
+Å... vi ä tjuge pågar i bastun.
+å vi älskar varann.
+Å... vi ä tjuge pågar i bastun.
+Vi har koll bier i en spann.
 
-  Alltid varje fredag, träffas vi, tjuge pågar i ett gäng.
-  Vi bastar å ljuger, dricker pilsner, å ingen längtar hem.
-  Men stackars Lasse, dränker sorgerna med sprit.
-  Han tänker döda sin käring med en bomb å arsenik.
+Alltid varje fredag, träffas vi, tjuge pågar i ett gäng.
+Vi bastar å ljuger, dricker pilsner, å ingen längtar hem.
+Men stackars Lasse, dränker sorgerna med sprit.
+Han tänker döda sin käring med en bomb å arsenik.
 
-  Å... vi ä tjuge pågar i bastun.
-  å vi älskar varann.
-  Å... vi ä tjuge pågar i bastun.
-  Vi har koll bier i en spann.
+Å... vi ä tjuge pågar i bastun.
+å vi älskar varann.
+Å... vi ä tjuge pågar i bastun.
+Vi har koll bier i en spann.
 
-  Om Lasse han blir ledsen, å börja gråta, så vill alla ge honom tröst.
-  För ingen här ä homosexuell, så han kan gråta mot nåt bröst.
-  Men efter lite bastu, några bier med vårat gäng.
-  Så repar Lasse modet, så han ä glad när han går hem.
+Om Lasse han blir ledsen, å börja gråta, så vill alla ge honom tröst.
+För ingen här ä homosexuell, så han kan gråta mot nåt bröst.
+Men efter lite bastu, några bier med vårat gäng.
+Så repar Lasse modet, så han ä glad när han går hem.
 
-  Å... vi ä tjuge pågar i bastun.
-  å vi älskar varann.
-  Å... vi ä tjuge pågar i bastun.
-  Vi har koll bier i en spann.
+Å... vi ä tjuge pågar i bastun.
+å vi älskar varann.
+Å... vi ä tjuge pågar i bastun.
+Vi har koll bier i en spann.
 
-  Hon ä dum, dum, dum, som ett diskeskum.
-  Hon ä aldrig glad som ett fågelbad, på en sommardag.
-  Hon ä alltid stygg, hon ä aldrig glad.
-  Hon ä likadan som en ilsken tjur, på en fäktardag.
-  
-  Å... vi ä tjuge pågar i bastun.
-  å vi älskar varann.
-  Å... vi ä tjuge pågar i bastun.
-  Vi har koll bier i en spann.`
+Hon ä dum, dum, dum, som ett diskeskum.
+Hon ä aldrig glad som ett fågelbad, på en sommardag.
+Hon ä alltid stygg, hon ä aldrig glad.
+Hon ä likadan som en ilsken tjur, på en fäktardag.
+
+Å... vi ä tjuge pågar i bastun.
+å vi älskar varann.
+Å... vi ä tjuge pågar i bastun.
+Vi har koll bier i en spann.`
 }
 
 export const darude = {
-  artist: 'darude',
-  song: 'sandstorm',
+  artist: 'Darude',
+  song: 'Dandstorm',
   lyrics: `Duuuuuuuuuuuuuuuuuuuuuuun
-  Dun dun dun dun dun dun dun dun dun dun dun dundun dun dundundun dun dun dun dun dun dun dundun dundun
-  BOOM
-  Dundun dundun dundun
-  BEEP
-  Dun dun dun dun dun
-  Dun dun
-  BEEP BEEP BEEP BEEP
-  BEEEP BEEP BEEP BEEP
-  BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BOOM
-  Daddaddadaddadadadadadadadadadaddadadadadadaddadadaddadadadadadadadadadadadaddadddadaddadadadd dadadadaddaddada
-  D
-  Dadadddaddadaddadadadddadadada
-  Nyu nyu nyu nyu nyu nnyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu
-  Doo doo doo doo doo doo doo doo
-  Nnn nn nn nn nn nn n nn nnn nn nn nnn nnn nnnnnnnn
-  Dddddddd ddadadadadaddadadadadadaadadadadadad
-  BOOM
-  Nyu nyu nyu nyu nyu nyu
-  BOOM
-  BOOM BOOM BOOM BOOM
-  BOOM
-  Nyunyunyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu
-  BOOM BOOM
-  BEEP BEEP
-  BEEP BEEP BEEP
-  Dadadadadada
-  Ddadad
-  BOOM BOOM
-  BEEP BEEP
-  BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP
-  BOOM
-  (Unintelligible)
-  Ddudndundun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dund
-  Dododododododododododododododododododododododododododododoodo
-  DRUM DRUM DRUM
-  Ddodododododoododododododododoodododododododo
-  Chi chichi chi chi chih
-  BOOOM
-  Chcihcihfkdhfdisjfkla
-  Dodododododododododododododododododododododododododododododododododoo
-  SCHEW
-  Dododododododoodododododododododododododo
-  Dadadadddudndundundudnudndundundunddunfudnundudnudnudndund
-  BOOM
-  FADE`
+Dun dun dun dun dun dun dun dun dun dun dun dundun dun dundundun dun dun dun dun dun dun dundun dundun
+BOOM
+Dundun dundun dundun
+BEEP
+Dun dun dun dun dun
+Dun dun
+BEEP BEEP BEEP BEEP
+BEEEP BEEP BEEP BEEP
+BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BOOM
+Daddaddadaddadadadadadadadadadaddadadadadadaddadadaddadadadadadadadadadadadaddadddadaddadadadd dadadadaddaddada
+D
+Dadadddaddadaddadadadddadadada
+Nyu nyu nyu nyu nyu nnyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu
+Doo doo doo doo doo doo doo doo
+Nnn nn nn nn nn nn n nn nnn nn nn nnn nnn nnnnnnnn
+Dddddddd ddadadadadaddadadadadadaadadadadadad
+BOOM
+Nyu nyu nyu nyu nyu nyu
+BOOM
+BOOM BOOM BOOM BOOM
+BOOM
+Nyunyunyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu
+BOOM BOOM
+BEEP BEEP
+BEEP BEEP BEEP
+Dadadadadada
+Ddadad
+BOOM BOOM
+BEEP BEEP
+BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP
+BOOM
+(Unintelligible)
+Ddudndundun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dund
+Dododododododododododododododododododododododododododododoodo
+DRUM DRUM DRUM
+Ddodododododoododododododododoodododododododo
+Chi chichi chi chi chih
+BOOOM
+Chcihcihfkdhfdisjfkla
+Dodododododododododododododododododododododododododododododododododoo
+SCHEW
+Dododododododoodododododododododododododo
+Dadadadddudndundundudnudndundundunddunfudnundudnudnudndund
+BOOM
+FADE`
+}
+
+export const naken = {
+  artist: '250 kg kärlek',
+  song: 'Naken',
+  lyrics: `Jag åkte skridskor under västerbron i tron
+Att isen var tjock men det var den inte
+Så jag plumsa ner i en vak
+När jag låg där och skrek så kom en man
+Jag ropa "Hjälp mig opp!"
+Men det gjorde inte han
+Han klädde av sig naken
+Och hoppa ner i vaken
+Och sa:
+
+Åh, åh vad det är skönt å va naken
+Svänga me snabeln och vicka pa baken
+(x2)
+
+En sommarkväll hade vårat gäng
+Fest vid stadens simbassäng
+Alla var glada, nakna och fulla
+En del var faktiskt jättefulla
+Men när vi tömde bassängen och fyllde på med isen
+För att kyla bärsen, ja då kom polisen
+Och dom haffa miiig
+Dom sa "Dig håller vi kvar, får vi höra ditt försvar?"
+Jag sa:
+
+Åh, åh vad det är skönt å va naken
+Svänga me snabeln och vicka på baken
+(x2)
+Jag åkte till Åland å handla sprit
+Å då åkte jag dit i tullen
+Dom trodde visst jag var terrorist och letade långt upp i tarmen
+Ett finger gick ju bra, men inte hela armen
+Å dom hitta lite grann, så dom leta lite mer
+Så frågar dom varför jag står här och ler?
+Jag svara:
+
+Åh, åh vad det är skönt å va naken
+Svänga me snabeln och vicka på baken
+Åh, åh vad det ar skönt å va naken
+Svänga me snabeln och vicka på....
+Åhhh, åhh, åhhhhhh....
+
+Åh, åh vad det är skönt å va naken
+Svänga me snabeln och vicka på baken
+(x2)`
+}
+
+export const vindarna = {
+  artist: 'Roger Pontare',
+  song: 'När vindarna viskar mitt namn',
+  lyrics: `Jag blev fångad i ett mörker
+Jag såg inget ljus fast allt runt omkring stod i brand
+I lågornas sken fanns mitt hopp och min tro
+Som virvlade bort och försvann
+Så ge mig min styrka
+Ge mig kraft att försvara mitt land
+Ge mig en väg att gå
+Jag ser yxan i krigarens hand
+
+Vill ni att jag vänder om
+Och slåss för den jag är
+Men aldrig sviker jag mitt land
+När vindarna viskar mitt namn
+
+Regnet som föll det fick dölja min sorg
+Och släcka min brinnande törst
+Jag flydde till bergen när gryningen kom
+Men plötsligt jag hörde en röst
+Vindarna viskar
+Jag hör hur dem kallar mitt namn
+Jag har en väg att gå
+Jag ser yxan i krigarens hand
+
+Vill ni att jag vänder om
+Och slåss för den jag är
+Men aldrig sviker jag mitt land
+När vindarna viskar mitt namn
+
+Vindarna viskar
+Jag hör dem kallar mitt namn
+Jag har en väg att gå
+Jag ser yxan i krigarens hand
+
+Vill ni att jag vänder om
+Och slåss för den jag är
+Men aldrig sviker jag mitt land
+När vindarna viskar mitt namn`
+}
+
+export const eldochvatten = {
+  artist: 'Sarek',
+  song: 'Genom eld och vatten',
+  lyrics: `Jag har inte silver och inte guld
+Inget du kan få
+Det jag äger ligger blottat för din syn
+Mina händer är tomma men hjärtat fullt
+Av nåt du inte ser
+Så jag har nånting som är mera värt ändå
+För om du tappar modet och faller ner på knä
+Kan du vila här hos mig
+Som en klippa i stormen att luta dig mot
+Och jag sviker aldrig dig
+Jag ska följa dig genom eld och vatten
+Över land och hav
+Jag ska älska dig tills hjärtat slutar slå
+Från det högsta berg
+Till det djupaste av dalar ska jag gå
+Genom tid och rum
+Ja, alla mina dagar ska du få
+Och när vindarna leker på vidderna
+Dansar jag med dig
+Om solen bränner svalkar jag din hud
+För om du tappar modet och faller ner på knä
+Kan du vila här hos mig
+Som en klippa i stormen att luta dig mot
+Och jag sviker aldrig dig
+Jag ska följa dig genom eld och vatten
+Över land och hav
+Jag ska älska dig tills hjärtat slutar slå
+Från det högsta berg
+Till det djupaste av dalar ska jag gå
+Genom tid och rum
+Ja, alla mina dagar ska du få
+Jag ska följa dig genom eld och vatten
+Över land och hav
+Jag ska älska dig tills hjärtat slutar slå
+Från det högsta berg
+Till det djupaste av dalar ska jag gå
+Genom tid och rum
+Ja, alla mina dagar ska du få
+Genom tid och rum
+Ja, alla mina dagar ska du få`
+}
+
+export const stadiljus = {
+  artist: 'Tommy Körberg',
+  song: 'Stad i ljus',
+  lyrics: `Min resa var mot solen, långt bortom alla slutna rum
+Där allting är oändligt, och alla gränser har förevigt suddats ut
+Jag ville se miraklet och höra ord som föder liv
+Bli buren av en styrka, som bara växer när jag anat mitt motiv
+Stad i ljus, i ett land utan namn
+Ge mig liv, där allting föds på nytt
+Och så när allt förändrats, när tiden inte längre finns
+Så ser jag oss tillsammans, och då är resan slut
+Det enda som vi minns
+Stad i ljus, i ett land utan namn
+Ge mig liv, där allting föds på nytt
+Stad i ljus, i ett land utan namn
+Ge, ge mig liv, där allting föds på nytt`
+}
+
+export const lappluva = {
+  artist: 'Snapsvisa',
+  melody: 'Lyssna på Filip',
+  song: 'Lappluva',
+  lyrics: `Lappluva med tofs på
+Fy fan vad det snöar
+Denna visa var inte lång
+Så därför tar vi den än en gång`
+}
+
+export const vandraren = {
+  artist: 'Nordman',
+  song: 'Vandraren',
+  lyrics: `Vandraren har ingenstans att gå, när han kommit fram till slutet
+Månen färgar alla skuggor blå, han är ensam kvar där ute
+Långt där borta från en enslig gård, lyser värmen ut I natten
+Väcker hungern I hans frusna kropp, som har levt på luft och vatten
+
+Det gör ont, men gå ändå
+Du kan alltid vända om
+Det gör ont, men gå ända
+Du är här och kom hit som en vandrare
+
+Klockan ringer för en ensam själ, den har lånat röst av döden
+Vill den illa eller vill den väl, när den räknar våra öden
+Sluta tänka det är svårt ändå, du får ta en dag I taget
+Vandraren har ingen stans att gå, om han går vid sista slaget
+
+Det gör ont, men gå ändå
+Du kan alltid vända om
+Det gör ont, men gå ända
+Du är här och kom hit som en vandrare
+
+Det gör ont, men gå ändå
+Du kan alltid vända om
+Det gör ont, men gå ända
+Du är här och kom hit som en vandrare`
 }
