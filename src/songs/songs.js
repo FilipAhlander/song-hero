@@ -222,42 +222,52 @@ export const toosexy = {
 Too sexy for my love
 Love's going to leave me
 I'm too sexy for my shirt
+
 Too sexy for my shirt
 So sexy it hurts
 And I'm too sexy for Milan
 Too sexy for Milan
+
 New York and Japan
 I'm too sexy for your party
 Too sexy for your party
 No way I'm disco dancing
+
 I'm a model, you know what I mean
 And I do my little turn on the catwalk
 Yeah, on the catwalk
 On the catwalk, yeah
+
 I do my little turn on the catwalk
 I'm too sexy for my car
 Too sexy for my car
 Too sexy by far
+
 And I'm too sexy for my hat
 Too sexy for my hat
 What do you think about that?
 I'm a model, you know what I mean
+
 And I do my little turn on the catwalk
 Yeah, on the catwalk
 On the catwalk, yeah
 I shake my little tush on the catwalk
+
 Too sexy for my
 Too sexy for my
 Too sexy for my
 'Cause I'm a model, you know what I mean
+
 And I do my little turn on the catwalk
 Yeah, on the catwalk
 Yeah, on the catwalk
 Yeah, I shake my little tush on the catwalk
+
 I'm too sexy for my cat
 Too sexy for my cat
 Poor pussy
 Poor pussy cat
+
 I'm too sexy for my love
 Too sexy for my love
 Love's going to leave me
@@ -306,4 +316,55 @@ export const bastu = {
   å vi älskar varann.
   Å... vi ä tjuge pågar i bastun.
   Vi har koll bier i en spann.`
+}
+
+export const darude = {
+  artist: 'darude',
+  song: 'sandstorm',
+  lyrics: `Duuuuuuuuuuuuuuuuuuuuuuun
+  Dun dun dun dun dun dun dun dun dun dun dun dundun dun dundundun dun dun dun dun dun dun dundun dundun
+  BOOM
+  Dundun dundun dundun
+  BEEP
+  Dun dun dun dun dun
+  Dun dun
+  BEEP BEEP BEEP BEEP
+  BEEEP BEEP BEEP BEEP
+  BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BOOM
+  Daddaddadaddadadadadadadadadadaddadadadadadaddadadaddadadadadadadadadadadadaddadddadaddadadadd dadadadaddaddada
+  D
+  Dadadddaddadaddadadadddadadada
+  Nyu nyu nyu nyu nyu nnyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu
+  Doo doo doo doo doo doo doo doo
+  Nnn nn nn nn nn nn n nn nnn nn nn nnn nnn nnnnnnnn
+  Dddddddd ddadadadadaddadadadadadaadadadadadad
+  BOOM
+  Nyu nyu nyu nyu nyu nyu
+  BOOM
+  BOOM BOOM BOOM BOOM
+  BOOM
+  Nyunyunyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu
+  BOOM BOOM
+  BEEP BEEP
+  BEEP BEEP BEEP
+  Dadadadadada
+  Ddadad
+  BOOM BOOM
+  BEEP BEEP
+  BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP
+  BOOM
+  (Unintelligible)
+  Ddudndundun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dund
+  Dododododododododododododododododododododododododododododoodo
+  DRUM DRUM DRUM
+  Ddodododododoododododododododoodododododododo
+  Chi chichi chi chi chih
+  BOOOM
+  Chcihcihfkdhfdisjfkla
+  Dodododododododododododododododododododododododododododododododododoo
+  SCHEW
+  Dododododododoodododododododododododododo
+  Dadadadddudndundundudnudndundundunddunfudnundudnudnudndund
+  BOOM
+  FADE`
 }
