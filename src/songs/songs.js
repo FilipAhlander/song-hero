@@ -1,4 +1,4 @@
-export const eddie = {
+export const sparvagn = {
   artist: 'Eddie',
   song: 'Den runkande spårvagnschauffören',
   lyrics: `Jag känner en runkande spårvagnschaufför
@@ -23,7 +23,7 @@ och ägna sig åt onani
 
 Vår förare gapar, och fiser och rapar
 och slår kuken i vagnens plåt
-Och tanterna dundrar och stirrar och undrar
+Och tanterna dundrar och stirrar och undrar 
 hur fan mänska bär du dig åt
 
 Då säger han fromt med ett milt leende
