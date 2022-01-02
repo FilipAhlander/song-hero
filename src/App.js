@@ -23,8 +23,7 @@ function App() {
           .filter((song) => (
             song.artist.toUpperCase().includes(filter.toUpperCase())
             || song.song.toUpperCase().includes(filter.toUpperCase())
-            || song.lyrics.toUpperCase().includes(filter.toUpperCase())
-            || song.melody.toUpperCase().includes(filter.toUpperCase())))
+            || song.lyrics.toUpperCase().includes(filter.toUpperCase())))
           .map((song, index) => <Card props={song} key={index} />)}
       </div>
       
